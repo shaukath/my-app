@@ -1,0 +1,10 @@
+.success{
+    padding: 8px 20px;
+    border: 1px solid green;
+    border-radius: 10px;
+    background: #def3de;
+    color: green;
+    margin: 10px 0;
+}
+
+

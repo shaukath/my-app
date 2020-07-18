@@ -1,0 +1,8 @@
+.warning{
+    padding: 8px 20px;
+    border: 1px solid brown;
+    border-radius: 10px;
+    background: rgb(245, 206, 206);
+    color:brown;
+    margin: 10px 0;
+}
